@@ -1,22 +1,25 @@
 # Bonjour, je suis Mathis Raffy 👋
 
-Diplomé en **BTS CIEL option Informatique & Réseaux** à Amiens.
-Je me forme au support informatique, à l'administration de systèmes et aux réseaux.
+Diplômé du **BTS CIEL option Informatique & Réseaux** (juillet 2026), basé à Amiens.
+Support informatique, administration de systèmes et réseaux.
 
+🟢 **Disponible immédiatement** pour un **emploi ou une alternance** · Amiens, Beauvais ou télétravail.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://TON-LIEN-PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mathisraffy2407@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maffy.dev-ff5b2e?style=flat-square)](https://maffy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-raffy/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square)](mailto:contact@maffy.dev)
 
 ---
 
 ## 🎓 Formation
 
-- **BTS CIEL — option Informatique & Réseaux** · Lycée Branly, Amiens · *2024 — 2026*
+- **BTS CIEL — option Informatique & Réseaux** · Lycée Branly, Amiens · *2024 — 2026* · ✅ diplôme obtenu en juillet 2026
 - **Classe préparatoire économie & gestion** · Lycée Flaubert, Bihorel · *2022 — 2024*
 - **Baccalauréat général** (Mathématiques, SES) · Lycée Truffaut, Beauvais · *2021 — 2022*
 
 ## 💼 Expérience
 
+- **Stage en informatique (BTS)** · UniLaSalle, Amiens
 - **Opérateur de manège / employé polyvalent** · Parc Saint-Paul · *Étés 2024, 2025, 2026*
   Accueil et sécurité du public, application de procédures, gestion des imprévus.
 - **Opérateur contrôle qualité** · Saverglass, Feuquières · *Été 2023*
@@ -24,11 +27,12 @@ Je me forme au support informatique, à l'administration de systèmes et aux ré
 
 ## 🛠️ Compétences
 
-**En cours d'apprentissage**
+**Langages et technologies**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -49,7 +53,7 @@ Je me forme au support informatique, à l'administration de systèmes et aux ré
 
 | Projet | Description | Statut |
 |---|---|---|
-| [Portfolio](https://TON-LIEN-PORTFOLIO) | Site personnel en HTML, CSS et JavaScript, sans framework | ✅ Terminé |
+| [Portfolio](https://maffy.dev) | Site personnel en HTML, CSS, JavaScript et PHP, sans framework | ✅ Terminé |
 
 ## 🎯 Centres d'intérêt
 
@@ -57,4 +61,4 @@ Musique et piano (autodidacte) · Formule 1 · Basketball · E-sport · Langues 
 
 ---
 
-📫 **Me contacter** : [mathisraffy2407@gmail.com](mailto:mathisraffy2407@gmail.com) · 📍 Amiens (80) · 🚗 Permis B
+📫 **Me contacter** : [contact@maffy.dev](mailto:contact@maffy.dev) · 📍 Amiens (80) · 🚗 Permis B
